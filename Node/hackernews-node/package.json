@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vibhorsingh11/GraphQL-HandsOn/issues"
   },
-  "homepage": "https://github.com/vibhorsingh11/GraphQL-HandsOn#readme"
+  "homepage": "https://github.com/vibhorsingh11/GraphQL-HandsOn#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
 }
