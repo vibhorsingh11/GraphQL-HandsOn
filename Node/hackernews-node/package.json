@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vibhorsingh11/GraphQL-HandsOn#readme",
   "dependencies": {
-    "graphql-yoga": "^1.18.3"
+    "graphql-yoga": "^1.18.3",
+    "prisma-client-lib": "^1.34.10"
   }
 }
