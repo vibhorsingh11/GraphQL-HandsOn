@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/vibhorsingh11/GraphQL-HandsOn#readme",
   "dependencies": {
+    "apollo-server-core": "^2.14.4",
+    "apollo-server-express": "^2.14.4",
     "bcryptjs": "^2.4.3",
+    "graphql-playground-html": "^1.6.25",
     "graphql-yoga": "^1.18.3",
     "jsonwebtoken": "^8.5.1",
     "prisma-client-lib": "^1.34.10"
